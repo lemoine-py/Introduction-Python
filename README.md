@@ -1,4 +1,4 @@
-# Introduction au lanage python
+# Introduction au langage python
 
 Cours d'introduction au langage python
 
